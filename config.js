@@ -1,4 +1,4 @@
-const GAME_CONFIG={pageTitle:"Desať šifier. Jeden darček.",eyebrow:"NARODENINOVÁ ŠIFROVAČKA",introText:"Pred tebou je séria desiatich šifier. Každá správna odpoveď odomkne ďalšiu. Keď vyriešiš poslednú, čaká ťa prekvapenie.",finalTitle:"Všetky šifry sú vyriešené.",finalText:"Toto je tvoj narodeninový darček.",voucherImage:"images/poukazka.jpg",puzzles:[
+const GAME_CONFIG={pageTitle:"Všetko Najlepšie Hana",eyebrow:"NARODENINOVÁ ŠIFROVAČKA",introText:"Pred tebou je séria šifier. Každá správna odpoveď odomkne ďalšiu. Keď vyriešiš poslednú, čaká ťa prekvapenie.",finalTitle:"Všetky šifry sú vyriešené.",finalText:"Toto je tvoj narodeninový darček.",voucherImage:"images/poukazka.jpg",puzzles:[
 {image:"images/sifra1.jpg",password:"Narodeniny",hint:"Tu bude vždy nápoveda"},
 {image:"images/sifra2.jpg",password:"Utorok",hint:"Toto fakt zvládneš aj bez nápovedy"},
 {image:"images/sifra3.jpg",password:"Tyrsak",hint:"Všetko je to vec perspektývy"},
